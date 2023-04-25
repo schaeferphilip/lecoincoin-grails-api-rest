@@ -1,0 +1,6 @@
+#Sun, 08 Jan 2023 20:02:13 +0100
+
+info.app.version=0.1
+info.app.name=grails_bihar_22_23
+grails.env=development
+info.app.grailsVersion=3.3.8
